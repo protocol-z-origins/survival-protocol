@@ -1,10 +1,6 @@
 ---
 title: CHAPITRE 06 — BLESSURES ET MORT
 ---
-
-
-**CONTENU DE L'ARTICLE**
-
 ### ARTICLE 6.1 — CONSÉQUENCES DES BLESSURES
 
 Toute blessure importante doit être interprétée de manière cohérente.
