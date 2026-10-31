@@ -3,7 +3,7 @@ title: CHAPITRE 01 — PRINCIPES FONDAMENTAUX DU LÉGAL
 ---
 ### ARTICLE 1.1 — LES TROIS INSTITUTIONS OFFICIELLES
 
-SURVIVAL PROTOCOL reconnaît trois institutions professionnelles légales :
+**Protocol Z: Origins** reconnaît trois institutions professionnelles légales :
 
 - **La milice gouvernementale**, chargée de la sécurité et du maintien d'un ordre minimal.
 - **Le corps médical**, chargé des soins, des interventions médicales et de la prise en charge des blessés.
