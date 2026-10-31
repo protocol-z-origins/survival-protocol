@@ -3,7 +3,7 @@ title: CHAPITRE 01 — PRINCIPES FONDAMENTAUX DE L'ILLÉGAL
 ---
 ### ARTICLE 1.1 — LIBERTÉ DES ACTIVITÉS ILLÉGALES
 
-SURVIVAL PROTOCOL repose sur un système d'illégal libre.
+**Protocol Z: Origins** repose sur un système d'illégal libre.
 
 Tout survivant peut pratiquer des activités illégales sans appartenir obligatoirement à une organisation officielle.
 
