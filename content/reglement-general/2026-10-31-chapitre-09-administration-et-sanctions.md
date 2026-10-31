@@ -68,6 +68,6 @@ Chaque joueur doit prendre connaissance des règles en vigueur.
 
 ### ARTICLE 9.9 — ACCEPTATION DU RÈGLEMENT
 
-En rejoignant SURVIVAL PROTOCOL, chaque joueur s'engage à respecter le règlement général ainsi que les règlements complémentaires applicables à ses activités.
+En rejoignant **Protocol Z: Origins**, chaque joueur s'engage à respecter le règlement général ainsi que les règlements complémentaires applicables à ses activités.
 
 L'ignorance d'une règle publiée ne constitue pas automatiquement une excuse.
