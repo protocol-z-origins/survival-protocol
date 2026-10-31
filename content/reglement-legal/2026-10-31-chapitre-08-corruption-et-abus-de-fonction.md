@@ -3,7 +3,7 @@ title: CHAPITRE 08 — CORRUPTION ET ABUS DE FONCTION
 ---
 ### ARTICLE 8.1 — CORRUPTION AUTORISÉE
 
-La corruption est autorisée sur SURVIVAL PROTOCOL lorsqu'elle s'inscrit dans une évolution RP cohérente.
+La corruption est autorisée sur **Protocol Z: Origins** lorsqu'elle s'inscrit dans une évolution RP cohérente.
 
 Elle peut concerner les membres de la milice, les médecins et les mécaniciens.
 
