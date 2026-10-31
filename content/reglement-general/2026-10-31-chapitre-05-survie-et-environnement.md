@@ -3,7 +3,7 @@ title: CHAPITRE 05 — SURVIE ET ENVIRONNEMENT
 ---
 ### ARTICLE 5.1 — UNIVERS POST-APOCALYPTIQUE
 
-SURVIVAL PROTOCOL se déroule dans un monde marqué par l'effondrement de la civilisation.
+**Protocol Z: Origins** se déroule dans un monde marqué par l'effondrement de la civilisation.
 
 Les personnages doivent adapter leur comportement à cet environnement.
 
