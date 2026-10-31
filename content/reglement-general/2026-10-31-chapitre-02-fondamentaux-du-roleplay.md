@@ -3,7 +3,7 @@ title: CHAPITRE 02 — FONDAMENTAUX DU ROLEPLAY
 ---
 ### ARTICLE 2.1 — ROLEPLAY OBLIGATOIRE
 
-SURVIVAL PROTOCOL est un serveur de jeu de rôle.
+**Protocol Z: Origins** est un serveur de jeu de rôle.
 
 Chaque joueur doit incarner un personnage cohérent avec l'univers post-apocalyptique.
 
