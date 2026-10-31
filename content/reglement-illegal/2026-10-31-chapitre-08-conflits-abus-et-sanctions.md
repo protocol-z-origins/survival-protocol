@@ -7,7 +7,7 @@ Toutes les activités illégales restent soumises au règlement général.
 
 L'appartenance à une organisation criminelle ne donne aucune immunité administrative.
 
-### ARTICLE 8.2 — INTERDICTION DU FREekILL
+### ARTICLE 8.2 — INTERDICTION DU FREEKILL
 
 Aucune activité illégale ne justifie les meurtres gratuits.
 
