@@ -1,0 +1,56 @@
+media:
+  input: media
+  output: /media
+
+content:
+  - name: reglement-general
+    label: Règlement général
+    type: collection
+    path: content/reglement-general
+    fields:
+      - name: title
+        label: Titre de l'article
+        type: string
+        required: true
+      - name: body
+        label: Contenu de l'article
+        type: rich-text
+
+  - name: reglement-illegal
+    label: Règlement illégal
+    type: collection
+    path: content/reglement-illegal
+    fields:
+      - name: title
+        label: Titre de l'article
+        type: string
+        required: true
+      - name: body
+        label: Contenu de l'article
+        type: rich-text
+
+  - name: reglement-legal
+    label: Règlement légal
+    type: collection
+    path: content/reglement-legal
+    fields:
+      - name: title
+        label: Titre de l'article
+        type: string
+        required: true
+      - name: body
+        label: Contenu de l'article
+        type: rich-text
+
+  - name: refuges
+    label: Système des refuges
+    type: collection
+    path: content/refuges
+    fields:
+      - name: title
+        label: Titre de l'article
+        type: string
+        required: true
+      - name: body
+        label: Contenu de l'article
+        type: rich-text
