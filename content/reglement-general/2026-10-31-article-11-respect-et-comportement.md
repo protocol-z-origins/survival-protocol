@@ -1,74 +1,40 @@
 ---
-title: CHAPITRE I — RÈGLES FONDAMENTALES
+title: CHAPITRE 01 — COMPORTEMENT ET RESPECT
 ---
-### ARTICLE 1.1 — RESPECT ET COMPORTEMENT
+### ARTICLE 1.1 — RESPECT ENTRE JOUEURS
 
-Le respect entre joueurs est obligatoire.
+Le respect est obligatoire entre tous les membres de la communauté, en jeu comme sur les plateformes associées au serveur.
 
-Les insultes hors RP, le harcèlement, les menaces réelles, les propos discriminatoires et les comportements toxiques sont interdits.
+Les insultes hors RP, les menaces réelles, le harcèlement, les propos discriminatoires et les comportements visant à humilier un joueur sont strictement interdits.
 
-Les conflits entre personnages sont autorisés dans le cadre du RP. Un conflit RP ne doit jamais devenir un conflit personnel entre joueurs.
+Les conflits entre personnages sont autorisés, mais ils ne doivent jamais devenir des conflits personnels entre joueurs.
 
-### ARTICLE 1.2 — ROLEPLAY OBLIGATOIRE
+### ARTICLE 1.2 — DISTINCTION RP / HRP
 
-Chaque joueur doit incarner son personnage de manière cohérente avec l'univers post-apocalyptique.
+Chaque joueur doit distinguer les événements vécus par son personnage des interactions entre joueurs.
 
-Les décisions doivent être motivées par des éléments RP.
+Une rivalité, une trahison ou une humiliation RP ne justifie aucune attaque personnelle hors RP.
 
-Les comportements absurdes, les actions réalisées uniquement pour provoquer et les scènes volontairement incohérentes sont interdits.
+Il est interdit d'utiliser un conflit HRP pour influencer volontairement les décisions de son personnage.
 
-### ARTICLE 1.3 — METAGAMING
+### ARTICLE 1.3 — COMPORTEMENT TOXIQUE
 
-Il est interdit d'utiliser en RP des informations obtenues hors RP.
+Les provocations répétées, l'acharnement, les comportements destinés à gâcher l'expérience d'autrui et les tentatives de créer volontairement des tensions dans la communauté sont interdits.
 
-Cela comprend notamment les informations provenant de Discord, des streams, des discussions privées ou de toute autre source extérieure au personnage.
+Le fait de perdre une scène RP ne constitue pas une justification pour provoquer ou insulter les autres participants.
 
-Une information ne peut être utilisée que si votre personnage l'a découverte de manière RP.
+### ARTICLE 1.4 — COMMUNICATION HRP
 
-### ARTICLE 1.4 — POWERGAMING
+Les discussions hors RP doivent être effectuées sur les canaux prévus à cet effet.
 
-Il est interdit d'effectuer des actions irréalistes ou d'imposer un résultat à un autre joueur sans lui laisser la possibilité de réagir.
+Il est interdit d'interrompre volontairement une scène pour contester son déroulement, sauf situation nécessitant une intervention immédiate du staff.
 
-Chaque action doit respecter les capacités physiques du personnage et les limites de l'univers.
+Les désaccords doivent être réglés après la scène par les moyens administratifs appropriés.
 
-### ARTICLE 1.5 — FEAR RP
+### ARTICLE 1.5 — RESPECT DES DÉCISIONS ADMINISTRATIVES
 
-Chaque personnage doit accorder de l'importance à sa propre survie.
+Les joueurs doivent respecter les interventions du staff.
 
-Face à une menace crédible, le joueur doit adopter un comportement cohérent avec le danger.
+Toute contestation peut être formulée de manière argumentée par ticket.
 
-Le Fear RP dépend notamment du nombre d'adversaires, de leur armement, de la situation et des possibilités réelles de fuite ou de résistance.
-
-Un survivant isolé face à plusieurs individus lourdement armés doit tenir compte de son désavantage.
-
-Aucun métier, grade ou statut ne rend un personnage invincible.
-
-Un membre de la milice peut également être contraint de se soumettre à une menace supérieure.
-
-### ARTICLE 1.6 — PAIN RP
-
-Les blessures, la douleur et les traumatismes doivent être joués de manière réaliste.
-
-Un personnage blessé ne peut pas continuer à agir comme s'il était en parfaite santé.
-
-Les blessures importantes doivent influencer ses déplacements, ses capacités et ses décisions.
-
-### ARTICLE 1.7 — FREEKILL
-
-Il est interdit de tuer ou d'attaquer mortellement un joueur sans justification RP valable.
-
-Toute violence doit s'inscrire dans une situation cohérente.
-
-Une simple provocation verbale ne justifie pas automatiquement une exécution.
-
-### ARTICLE 1.8 — REVENGE KILL
-
-Il est interdit de revenir immédiatement sur une scène dans le seul objectif de se venger après une mise hors combat entraînant une perte de mémoire RP.
-
-Les règles de mémoire dépendent du système de mort et de réanimation applicable sur le serveur.
-
-### ARTICLE 1.9 — COMBAT LOGGING
-
-Il est interdit de se déconnecter volontairement pour échapper à une scène RP, une arrestation, une attaque, un pillage ou une conséquence de ses actions.
-
-En cas de crash ou de problème technique, le joueur doit prévenir les personnes concernées ou le staff dès que possible.
+Les insultes, pressions ou menaces envers un membre de l'administration sont interdites.
