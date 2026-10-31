@@ -3,7 +3,7 @@ title: CHAPITRE 03 — LOOT ET PILLAGE
 ---
 ### ARTICLE 3.1 — PRINCIPE DU LOOT
 
-Le pillage est autorisé sur SURVIVAL PROTOCOL.
+Le pillage est autorisé sur **Protocol Z: Origins**.
 
 Les joueurs peuvent récupérer une partie des ressources d'un autre survivant à la suite d'une interaction RP valable.
 
