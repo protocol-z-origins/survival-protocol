@@ -3,7 +3,7 @@ title: CHAPITRE 02 — MILICE GOUVERNEMENTALE
 ---
 ### ARTICLE 2.1 — DÉFINITION DE LA MILICE
 
-La milice constitue l'unique force armée institutionnelle reconnue par SURVIVAL PROTOCOL.
+La milice constitue l'unique force armée institutionnelle reconnue par **Protocol Z: Origins**.
 
 Elle représente les derniers vestiges de l'autorité gouvernementale après l'effondrement de Los Santos.
 
