@@ -25,9 +25,9 @@ Une réanimation ne signifie pas automatiquement que le personnage retrouve imm�
 
 ### ARTICLE 6.4 — MÉMOIRE APRÈS RÉANIMATION
 
-Les pertes de mémoire éventuelles dépendent des mécaniques officielles du serveur.
+Après une réanimation, le joueur ne peut pas se souvenir des événements liés à la scène pendant une durée de **30 minutes**.
 
-Lorsqu'une perte de mémoire s'applique, le joueur ne peut pas utiliser les informations oubliées pour reprendre un conflit ou se venger.
+Durant ce délai, il lui est interdit d’utiliser les informations de la scène pour reprendre un conflit, retourner sur place ou se venger.
 
 ### ARTICLE 6.5 — MORT RP
 
