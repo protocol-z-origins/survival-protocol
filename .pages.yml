@@ -16,10 +16,10 @@ content:
         label: Contenu de l'article
         type: rich-text
 
-  - name: reglement-illegal
-    label: Règlement illégal
+  - name: reglement-faction
+    label: Règlement faction
     type: collection
-    path: content/reglement-illegal
+    path: content/reglement-faction
     fields:
       - name: title
         label: Titre de l'article
@@ -29,10 +29,10 @@ content:
         label: Contenu de l'article
         type: rich-text
 
-  - name: reglement-legal
-    label: Règlement légal
+  - name: reglement-institutions
+    label: Règlement institutions
     type: collection
-    path: content/reglement-legal
+    path: content/reglement-institutions
     fields:
       - name: title
         label: Titre de l'article
