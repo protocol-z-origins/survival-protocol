@@ -1,5 +1,5 @@
 ---
-title: CHAPITRE VIII — COMMERCES, TRAFICS ET SANCTIONS
+title: CHAPITRE 08 — COMMERCES, TRAFICS ET SANCTIONS
 ---
 ### Article 32 — Commerce de Factions
 
