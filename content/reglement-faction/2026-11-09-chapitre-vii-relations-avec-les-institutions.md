@@ -18,6 +18,3 @@ Leur mission de soins doit être respectée, même dans un contexte de conflit.
 Les interactions avec les garagistes et les autres services essentiels doivent rester cohérentes.
 
 Les institutions ne doivent pas être prises pour cible gratuitement.
-
----
-
