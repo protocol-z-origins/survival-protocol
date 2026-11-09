@@ -1,5 +1,5 @@
 ---
-title: CHAPITRE I — GÉNÉRALITÉS DES FACTIONS
+title: CHAPITRE 01 — GÉNÉRALITÉS DES FACTIONS
 ---
 ### Article 1 — Principes fondamentaux
 
