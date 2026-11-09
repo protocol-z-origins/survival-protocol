@@ -1,5 +1,5 @@
 ---
-title: CHAPITRE 03 — BRAQUAGES ET PILLAGES
+title: CHAPITRE 02 — BRAQUAGES ET PILLAGES
 ---
 ### Article 8 — Conditions d'un braquage
 
