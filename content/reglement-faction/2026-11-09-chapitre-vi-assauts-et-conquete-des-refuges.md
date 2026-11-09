@@ -1,5 +1,5 @@
 ---
-title: CHAPITRE VI — ASSAUTS ET CONQUÊTE DES REFUGES
+title: CHAPITRE 06 — ASSAUTS ET CONQUÊTE DES REFUGES
 ---
 ### Article 21 — Conditions de conquête
 
