@@ -1,5 +1,5 @@
 ---
-title: CHAPITRE 02 — FACTIONS ET ORGANISATIONS
+title: CHAPITRE 01 — FACTIONS ET ORGANISATIONS
 ---
 ### Article 4 — Création d'une faction
 
