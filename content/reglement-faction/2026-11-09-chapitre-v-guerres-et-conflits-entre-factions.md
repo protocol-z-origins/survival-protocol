@@ -1,5 +1,5 @@
 ---
-title: CHAPITRE V — GUERRES ET CONFLITS ENTRE FACTIONS
+title: CHAPITRE 05 — GUERRES ET CONFLITS ENTRE FACTIONS
 ---
 ### Article 17 — Déclenchement d'un conflit
 
