@@ -1,5 +1,5 @@
 ---
-title: CHAPITRE VII — RELATIONS AVEC LES INSTITUTIONS
+title: CHAPITRE 07 — RELATIONS AVEC LES INSTITUTIONS
 ---
 ### Article 29 — Relations avec la Milice
 
